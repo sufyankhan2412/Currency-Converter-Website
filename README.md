@@ -28,10 +28,12 @@ A simple yet powerful currency converter web app that allows users to convert cu
 To run the project locally:
 
 1. **Clone the repository**:
-   ```bash
+   ```bash https://github.com/sufyankhan2412/Currency-Converter-Website
 2.  **Navigate to the project folder**:
-  cd Currency-Converter-Website
-3.Open the index.html file in your browser to see the app in action.
+  cd Currency-Converter-Website.
+3.**Open the index.html file**
+    Open the index.html file  in your browser to see the app in action.
+   
   
 ## Acknowledgments
 Fawaz Ahmed's Currency API for providing live exchange rates.
